@@ -1,0 +1,6 @@
+2021/10/15-14:49:36.925 16d5 Reusing MANIFEST /home/xilo/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/10/15-14:49:36.926 16d5 Recovering log #472
+2021/10/15-14:49:36.926 16d5 Reusing old log /home/xilo/.config/discord/Local Storage/leveldb/000472.log 
+2021/10/15-15:00:29.433 16eb Level-0 table #476: started
+2021/10/15-15:00:29.447 16eb Level-0 table #476: 28429 bytes OK
+2021/10/15-15:00:29.451 16eb Delete type=0 #472

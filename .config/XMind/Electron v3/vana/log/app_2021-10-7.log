@@ -1,0 +1,55 @@
+
+-------- SESSION 2021-10-07T12:44:59.229Z (10.1.2+202004142327, linux, x64, 33495117824, XMind Ltd., vana_linux_64) --------
+[I 2021-10-07T12:44:59.321Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-10-07T12:44:59.608Z main:store:plugins:electron] Application will finish launching.
+[I 2021-10-07T12:44:59.616Z main:store:plugins:electron] Application arguments: ["/usr/lib/electron5/electron","/usr/share/XMind2020/app.asar","/opt/XMind/XMind","--no-sandbox"]
+[I 2021-10-07T12:44:59.622Z main:store:plugins:electron] Application is ready.
+[I 2021-10-07T12:44:59.637Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-10-07T12:44:59.641Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-10-07T12:44:59.641Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-10-07T12:44:59.641Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-10-07T12:44:59.641Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-10-07T12:44:59.724Z main:store:plugins:electron] Device ID: 063ad97f-98de-469d-ada4-60c36381301e
+[E 2021-10-07T12:44:59.809Z Notification] Error: Request to https://www.xmind.net/_api/events?p=vana_linux_64&v=10.1.2.202004142327&ar=x64&nl=en-US&ac=trial&lic=&ts0=1631784631822&ts1=1633501181455&ts2=1633502995423&ts3=1633503240473&os=linux&version=10.1.2&buildid=10.1.2.202004142327&arch=x64&distrib=vana_linux_64&account_type=trial&license_info=&firstStartTimestamp=1631784631822&startTimestamp1=1633501181455&startTimestamp2=1633502995423&startTimestamp3=1633503240473 failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[W 2021-10-07T12:44:59.815Z main:store:plugins:electron] Failed to load pricing: Error: Request to https://www.xmind.net/_res/get-zen-price?p=vana_linux_64&v=10.1.2.202004142327&os=linux&ar=x64&nl=en-US failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[E 2021-10-07T12:45:00.040Z new] Failed to get library items: { name: 'Error' }
+[I 2021-10-07T12:45:05.780Z fonts] start get system fonts
+[I 2021-10-07T12:45:06.357Z fonts] Consuming 577 ms to get system fonts
+[I 2021-10-07T12:45:07.517Z snowbrush] Export image time: from 1633610707516 to 1633610707517.
+[I 2021-10-07T12:45:59.641Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[W 2021-10-07T12:45:59.851Z UsageTracker] Send fail: Error: Request to https://piwik.xmind.net/piwik.php failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[E 2021-10-07T12:45:59.936Z main:store:plugins:activation-updater] Failed to update subscription information: Error: Request to https://www.xmind.net/_res/devices failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[I 2021-10-07T12:45:59.937Z main:store:plugins:activation-updater] Schedule refresh timeout(120000).
+[W 2021-10-07T12:46:59.820Z UsageTracker] Send fail: Error: Request to https://www.google-analytics.com/batch failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[E 2021-10-07T12:47:59.971Z main:store:plugins:activation-updater] Failed to update subscription information: Error: Request to https://www.xmind.net/_res/devices failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[I 2021-10-07T12:47:59.972Z main:store:plugins:activation-updater] Schedule refresh timeout(240000).
+[I 2021-10-07T12:48:01.853Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-10-07T12:48:02.948Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///usr/share/XMind2020/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2021-10-07T12:48:02.991Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-10-07T12:48:03.053Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-10-07T12:48:03.054Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-10-07T12:48:03.096Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-10-07T12:48:03.110Z main:store:plugins:electron] All documents are closed.
+[I 2021-10-07T12:48:03.111Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-10-07T12:48:03.111Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-10-07T12:48:03.114Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-10-07T12:48:03.115Z main:store:plugins:electron] Application will quit.
+[I 2021-10-07T12:48:03.115Z main:store:plugins:electron] Application quitted.

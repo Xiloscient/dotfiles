@@ -1,0 +1,183 @@
+
+-------- SESSION 2021-09-29T06:05:27.325Z (10.1.2+202004142327, linux, x64, 33495117824, XMind Ltd., vana_linux_64) --------
+[I 2021-09-29T06:05:27.414Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-09-29T06:05:27.704Z main:store:plugins:electron] Application will finish launching.
+[I 2021-09-29T06:05:27.711Z main:store:plugins:electron] Application arguments: ["/usr/lib/electron5/electron","/usr/share/XMind2020/app.asar","/opt/XMind/XMind","--no-sandbox"]
+[I 2021-09-29T06:05:27.716Z main:store:plugins:electron] Application is ready.
+[I 2021-09-29T06:05:27.728Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [ { source: 'new://workbook?theme=M15&template=map&title=ZEN',
+      editorId: '35c89a8a691baff89b55897cfa' } ] }
+[I 2021-09-29T06:05:27.733Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-09-29T06:05:27.733Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-09-29T06:05:27.733Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-09-29T06:05:27.733Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-09-29T06:05:27.836Z main:store:plugins:electron] Device ID: 063ad97f-98de-469d-ada4-60c36381301e
+[I 2021-09-29T06:05:41.681Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-09-29T06:05:42.699Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///usr/share/XMind2020/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2021-09-29T06:05:42.733Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-09-29T06:05:42.784Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-09-29T06:05:57.993Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-09-29T06:05:57.997Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///usr/share/XMind2020/app.asar/renderer/editor-frame.html?frameId=2&_apr=default
+[I 2021-09-29T06:05:58.027Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-09-29T06:05:58.046Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-09-29T06:05:58.046Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-09-29T06:05:58.061Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2021-09-29T06:05:58.072Z main:store:plugins:electron] All documents are closed.
+[I 2021-09-29T06:05:58.072Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-09-29T06:05:58.072Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-09-29T06:05:58.076Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-09-29T06:05:58.076Z main:store:plugins:electron] Application will quit.
+[I 2021-09-29T06:05:58.076Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-09-29T06:06:01.101Z (10.1.2+202004142327, linux, x64, 33495117824, XMind Ltd., vana_linux_64) --------
+[I 2021-09-29T06:06:01.169Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-09-29T06:06:01.338Z main:store:plugins:electron] Application will finish launching.
+[I 2021-09-29T06:06:01.344Z main:store:plugins:electron] Application arguments: ["/usr/lib/electron5/electron","/usr/share/XMind2020/app.asar","/opt/XMind/XMind","--no-sandbox"]
+[I 2021-09-29T06:06:01.346Z main:store:plugins:electron] Application is ready.
+[I 2021-09-29T06:06:01.359Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-09-29T06:06:01.362Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-09-29T06:06:01.362Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-09-29T06:06:01.362Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-09-29T06:06:01.362Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-09-29T06:06:01.417Z main:store:plugins:electron] Device ID: 063ad97f-98de-469d-ada4-60c36381301e
+[I 2021-09-29T06:06:15.112Z snowbrush] Export image time: from 1632895575112 to 1632895575112.
+[I 2021-09-29T06:07:01.391Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-09-29T06:07:01.935Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-09-29T06:11:15.104Z snowbrush] Export image time: from 1632895875104 to 1632895875104.
+[I 2021-09-29T06:12:01.366Z snowbrush] Export image time: from 1632895921366 to 1632895921366.
+[I 2021-09-29T06:14:01.650Z fonts] start get system fonts
+[I 2021-09-29T06:14:02.079Z fonts] Consuming 429 ms to get system fonts
+[I 2021-09-29T06:15:37.810Z snowbrush] Export image time: from 1632896137810 to 1632896137810.
+[I 2021-09-29T06:17:01.368Z snowbrush] Export image time: from 1632896221368 to 1632896221368.
+[I 2021-09-29T06:54:09.384Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-09-29T06:54:12.808Z main:store:plugins:editors:EditorView] User cancel closing editor
+[I 2021-09-29T06:54:12.808Z main:store:plugins:editors:EditorFrame] User cancel closing on closing EditorFrame
+[I 2021-09-29T07:07:01.448Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-09-29T07:07:04.392Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-09-29T07:34:10.948Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-09-29T07:34:11.956Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///usr/share/XMind2020/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2021-09-29T07:34:12.005Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-09-29T07:34:12.055Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-09-29T07:34:12.055Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-09-29T07:34:12.072Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-09-29T07:34:12.084Z main:store:plugins:electron] All documents are closed.
+[I 2021-09-29T07:34:12.084Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-09-29T07:34:12.084Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-09-29T07:34:12.087Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-09-29T07:34:12.088Z main:store:plugins:electron] Application will quit.
+[I 2021-09-29T07:34:12.088Z main:store:plugins:electron] Application quitted.
+[W 2021-09-29T07:34:12.088Z UsageTracker] Send fail: Error: Request to https://piwik.xmind.net/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+
+-------- SESSION 2021-09-29T07:37:32.825Z (10.1.2+202004142327, linux, x64, 33495117824, XMind Ltd., vana_linux_64) --------
+[I 2021-09-29T07:37:32.902Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-09-29T07:37:33.114Z main:store:plugins:electron] Application will finish launching.
+[I 2021-09-29T07:37:33.122Z main:store:plugins:electron] Application arguments: ["/usr/lib/electron5/electron","/usr/share/XMind2020/app.asar","/opt/XMind/XMind","--no-sandbox"]
+[I 2021-09-29T07:37:33.124Z main:store:plugins:electron] Application is ready.
+[I 2021-09-29T07:37:33.140Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-09-29T07:37:33.143Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-09-29T07:37:33.143Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-09-29T07:37:33.143Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-09-29T07:37:33.143Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-09-29T07:37:33.237Z main:store:plugins:electron] Device ID: 063ad97f-98de-469d-ada4-60c36381301e
+[I 2021-09-29T07:37:40.688Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-09-29T07:37:40.702Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///usr/share/XMind2020/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2021-09-29T07:37:40.762Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-09-29T07:37:40.795Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-09-29T07:37:40.795Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-09-29T07:37:40.821Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-09-29T07:37:40.840Z main:store:plugins:electron] All documents are closed.
+[I 2021-09-29T07:37:40.840Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-09-29T07:37:40.841Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-09-29T07:37:40.844Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-09-29T07:37:40.844Z main:store:plugins:electron] Application will quit.
+[I 2021-09-29T07:37:40.844Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-09-29T08:17:46.573Z (10.1.2+202004142327, linux, x64, 33495117824, XMind Ltd., vana_linux_64) --------
+[I 2021-09-29T08:17:46.671Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-09-29T08:17:46.909Z main:store:plugins:electron] Application will finish launching.
+[I 2021-09-29T08:17:46.919Z main:store:plugins:electron] Application arguments: ["/usr/lib/electron5/electron","/usr/share/XMind2020/app.asar","/opt/XMind/XMind","--no-sandbox"]
+[I 2021-09-29T08:17:46.921Z main:store:plugins:electron] Application is ready.
+[I 2021-09-29T08:17:46.939Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-09-29T08:17:46.944Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-09-29T08:17:46.945Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-09-29T08:17:46.945Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-09-29T08:17:46.945Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-09-29T08:17:47.031Z main:store:plugins:electron] Device ID: 063ad97f-98de-469d-ada4-60c36381301e
+[W 2021-09-29T08:17:52.637Z main:store:plugins:electron] Failed to load pricing: Error: Request to https://www.xmind.net/_res/get-zen-price?p=vana_linux_64&v=10.1.2.202004142327&os=linux&ar=x64&nl=en-US failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[E 2021-09-29T08:17:52.673Z Notification] Error: Request to https://www.xmind.net/_api/events?p=vana_linux_64&v=10.1.2.202004142327&ar=x64&nl=en-US&ac=trial&lic=&ts0=1631784631822&ts1=1631865221958&ts2=1632895528303&ts3=1632895561854&os=linux&version=10.1.2&buildid=10.1.2.202004142327&arch=x64&distrib=vana_linux_64&account_type=trial&license_info=&firstStartTimestamp=1631784631822&startTimestamp1=1631865221958&startTimestamp2=1632895528303&startTimestamp3=1632895561854 failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[E 2021-09-29T08:17:52.675Z ipc] WebContents which requested API "GET /xos/library/items" has been destroyed after error occurs: Error: Request to https://www.xmind.net/_api/share/vana_map/?lang=en failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[I 2021-09-29T08:18:04.836Z snowbrush] Export image time: from 1632903484836 to 1632903484836.
+[I 2021-09-29T08:18:36.629Z snowbrush] null
+[I 2021-09-29T08:18:37.900Z snowbrush] null
+[I 2021-09-29T08:18:39.607Z snowbrush] null
+[I 2021-09-29T08:18:43.221Z snowbrush] null
+[I 2021-09-29T08:18:46.947Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[E 2021-09-29T08:18:46.963Z main:store:plugins:activation-updater] Failed to update subscription information: Error: Request to https://www.xmind.net/_res/devices failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[I 2021-09-29T08:18:46.963Z main:store:plugins:activation-updater] Schedule refresh timeout(120000).
+[W 2021-09-29T08:18:52.710Z UsageTracker] Send fail: Error: Request to https://www.google-analytics.com/batch failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[I 2021-09-29T08:19:17.046Z snowbrush] db write { 'text/plain': 'Jenny',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-other-object-json':
+   { boundary: [],
+     relationship: [],
+     sheetId: '1c78834ef2e91b910d64ebefed',
+     summary: [] },
+  'text/x-type': 'branch',
+  xapInfoMap: {} }
+[I 2021-09-29T08:19:17.704Z snowbrush] db write { 'text/plain': 'Jenny',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-other-object-json':
+   { boundary: [],
+     relationship: [],
+     sheetId: '1c78834ef2e91b910d64ebefed',
+     summary: [] },
+  'text/x-type': 'branch',
+  xapInfoMap: {} }
+[I 2021-09-29T08:19:19.290Z snowbrush] null
+[I 2021-09-29T08:19:27.563Z snowbrush] null
+[I 2021-09-29T08:19:28.961Z snowbrush] null
+[I 2021-09-29T08:19:42.880Z snowbrush] null
+[I 2021-09-29T08:19:43.823Z snowbrush] null
+[I 2021-09-29T08:19:45.155Z snowbrush] null
+[I 2021-09-29T08:19:46.730Z snowbrush] null
+[I 2021-09-29T08:19:48.590Z snowbrush] null
+[I 2021-09-29T08:19:49.614Z snowbrush] null
+[W 2021-09-29T08:19:52.706Z UsageTracker] Send fail: Error: Request to https://www.google-analytics.com/batch failed, reason: net::ERR_CONNECTION_REFUSED
+    at ClientRequest.<anonymous> (/usr/share/XMind2020/app.asar/main/main.js:30:124638)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/usr/lib/electron5/resources/electron.asar/browser/api/net.js:90:24)
+[I 2021-09-29T08:20:29.124Z snowbrush] null
+[I 2021-09-29T08:20:29.936Z snowbrush] null
+[I 2021-09-29T08:20:32.098Z snowbrush] null
+[I 2021-09-29T08:20:32.656Z snowbrush] null
+[I 2021-09-29T08:20:33.409Z snowbrush] null
+[I 2021-09-29T08:20:41.377Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-09-29T08:20:42.314Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///usr/share/XMind2020/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2021-09-29T08:20:42.349Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-09-29T08:20:42.402Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-09-29T08:20:42.402Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-09-29T08:20:42.420Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-09-29T08:20:42.435Z main:store:plugins:electron] All documents are closed.
+[I 2021-09-29T08:20:42.435Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-09-29T08:20:42.435Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-09-29T08:20:42.441Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-09-29T08:20:42.441Z main:store:plugins:electron] Application will quit.
+[I 2021-09-29T08:20:42.442Z main:store:plugins:electron] Application quitted.

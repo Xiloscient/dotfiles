@@ -1,0 +1,9 @@
+2021/10/15-09:36:22.787 50d Reusing MANIFEST /home/xilo/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/15-09:36:22.787 50d Recovering log #25
+2021/10/15-09:36:22.788 50d Reusing old log /home/xilo/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000025.log 
+2021/10/15-09:36:22.993 4cb Compacting 1@1 + 1@2 files
+2021/10/15-09:36:23.025 4cb Generated table #28@1: 2213 keys, 258048 bytes
+2021/10/15-09:36:23.025 4cb Compacted 1@1 + 1@2 files => 258048 bytes
+2021/10/15-09:36:23.028 4cb compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/15-09:36:23.029 4cb Delete type=2 #23
+2021/10/15-09:36:23.029 4cb Delete type=2 #26

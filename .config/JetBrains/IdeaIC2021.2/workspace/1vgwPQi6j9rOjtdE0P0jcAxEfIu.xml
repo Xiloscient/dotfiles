@@ -1,0 +1,73 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30901116" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2776" y="488" width="844" height="500" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627060419401">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2776" y="488" width="844" height="500" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627060419401" />
+    <state x="2864" y="532" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627060424387">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2864" y="532" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627060424387" />
+    <state x="2986" y="471" key="FileChooserDialogImpl" timestamp="1627060527788">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2986" y="471" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627060527788" />
+    <state x="2829" y="501" key="NewModule_or_Project.wizard" timestamp="1627060393065">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2829" y="501" key="NewModule_or_Project.wizard/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627060393065" />
+    <state x="2699" y="388" key="SettingsEditor" timestamp="1626997035921">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2699" y="388" key="SettingsEditor/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1626997035921" />
+    <state x="2160" y="344" key="new project wizard" timestamp="1627060551674">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2160" y="344" key="new project wizard/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627060551674" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.rs" />
+  </component>
+</project>

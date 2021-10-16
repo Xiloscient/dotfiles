@@ -1,0 +1,257 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="Aufgabe4" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#fileProcessing#0;class#Main#0" />
+                <element signature="e#8184#8185#0" expanded="true" />
+                <element signature="e#8246#8247#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/examples/wuerfel0.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/examples/wuerfel0" />
+      <option value="$PROJECT_DIR$/src/examples/wuerfel1" />
+      <option value="$PROJECT_DIR$/src/examples/wuerfel2" />
+      <option value="$PROJECT_DIR$/src/examples/wuerfel3" />
+      <option value="$PROJECT_DIR$/src/examples/wuerfel0.txt" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Aufgabe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aufgabe4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aufgabe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aufgabe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aufgabe4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aufgabe4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="Aufgabe4-history1" />
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50184166" visible="true" weight="0.16728526" />
+      <window_info id="Structure" order="1" sideWeight="0.49924698" side_tool="true" weight="0.16728526" />
+      <window_info id="Favorites" order="2" sideWeight="0.4981584" side_tool="true" visible="true" weight="0.16728526" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.1204246" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32952285" />
+      <window_info anchor="bottom" id="TODO" order="3" weight="0.27882704" />
+      <window_info anchor="bottom" x="26" y="394" width="1863" height="328" id="Run" order="4" weight="0.3663022" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.13667992" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.25795227" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32979503" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32952285" />
+      <window_info anchor="right" id="Layout Validation" order="0" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>TODO</value>
+      <value>Favorites</value>
+      <value>Structure</value>
+      <value>Debug</value>
+      <value>Event Log</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="578" y="347" width="637" height="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1634306108169">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="578" y="347" width="637" height="421" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1634306108169" />
+    <state width="1863" height="340" key="GridCell.Tab.0.bottom" timestamp="1634314374487">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2503" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1634163615042" />
+    <state width="1863" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1634314374487" />
+    <state width="1863" height="340" key="GridCell.Tab.0.center" timestamp="1634314374485">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2503" height="311" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1634163615042" />
+    <state width="1863" height="340" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1634314374485" />
+    <state width="1863" height="340" key="GridCell.Tab.0.left" timestamp="1634314374484">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2503" height="311" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1634163615042" />
+    <state width="1863" height="340" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1634314374484" />
+    <state width="1863" height="340" key="GridCell.Tab.0.right" timestamp="1634314374486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2503" height="311" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1634163615042" />
+    <state width="1863" height="340" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1634314374486" />
+    <state width="1863" height="231" key="GridCell.Tab.1.bottom" timestamp="1634216276276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2503" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1634154782239" />
+    <state width="1863" height="231" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1634216276276" />
+    <state width="1863" height="231" key="GridCell.Tab.1.center" timestamp="1634216276275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2503" height="324" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1634154782238" />
+    <state width="1863" height="231" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1634216276275" />
+    <state width="1863" height="231" key="GridCell.Tab.1.left" timestamp="1634216276274">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2503" height="324" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1634154782238" />
+    <state width="1863" height="231" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1634216276274" />
+    <state width="1863" height="231" key="GridCell.Tab.1.right" timestamp="1634216276275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2503" height="324" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1634154782238" />
+    <state width="1863" height="231" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1634216276275" />
+    <state x="2877" y="631" width="631" height="184" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1633526554254">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2877" y="631" width="631" height="184" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1633526554254" />
+    <state x="448" y="235" width="1020" height="592" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1634247865492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="235" width="1020" height="592" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1634247865492" />
+    <state x="2753" y="455" width="890" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1634163650196">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2753" y="455" width="890" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1634163650196" />
+    <state x="622" y="263" key="run.anything.popup" timestamp="1633422936409">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="263" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1633422936409" />
+    <state x="621" y="275" width="672" height="687" key="search.everywhere.popup" timestamp="1633422471348">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="275" width="672" height="687" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1633422471348" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/examples/wuerfel1" />
+    <entry file="file://$PROJECT_DIR$/src/examples/wuerfel2" />
+    <entry file="file://$PROJECT_DIR$/src/examples/wuerfel3" />
+    <entry file="file://$PROJECT_DIR$/src/examples/wuerfel0" />
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-16.0.2/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="807" column="25" selection-start-line="807" selection-start-column="25" selection-end-line="807" selection-end-column="25" />
+          <folding>
+            <element signature="e#34243#34244#0" expanded="true" />
+            <element signature="e#34328#34329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-16.0.2/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="4831" column="25" selection-start-line="4831" selection-start-column="25" selection-end-line="4831" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/wuerfel1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/wuerfel2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/wuerfel3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.attach_pid21208">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/wuerfel0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#fileProcessing#0;class#Main#0" />
+            <element signature="e#8184#8185#0" expanded="true" />
+            <element signature="e#8246#8247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

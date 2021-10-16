@@ -1,0 +1,188 @@
+<application>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 16.0.2" />
+        <option name="installDir" value="$USER_HOME$/.jdks/openjdk-16.0.2" />
+        <option name="javaHomeDir" value="$USER_HOME$/.jdks/openjdk-16.0.2" />
+        <option name="sha256" value="6c714ded7d881ca54970ec949e283f43d673a142fda1de79b646ddd619da9c0c" />
+        <option name="url" value="https://download.java.net/java/GA/jdk16.0.2/d4a915d82b4c4fbb9bde534da945d746/7/GPL/openjdk-16.0.2_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="16.0.2" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="15" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1kBwxLP8IpVt9LbCIiXDAoAypjQ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rw5WsDUtMN4POSn21V0ELSpjIR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rzQY4dRM6z5mx0tguC9IFhWdrm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vRKQG1O9BQj2YiB3p9MYqdLJRm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vUWmbgeaG8F9vj3pae9M5nvup6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vd9a6VrVegGt4ElqLdgB68MCMt">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vgwPQi6j9rOjtdE0P0jcAxEfIu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vgwbP2szpuV31ZYr57V7CmZiQA">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vj1IevXRoJwb2fN5NYkiW3fpE5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vj1xTmsVgc6hatiIHsnjGxbRFT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vtp7rEITFHsgIdhNu6clnja6Zc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1w2MYAp8fqGtdA0Ke3cfqBJqAjc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1w2MdQeTp3ghAACD72e9bBHXBbW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1w2R8KyC21yNwKxZEf9MvQJESH1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wGA6QBqcraeb4N35mDVKvtwsEp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wGUOzvD73mm2ftLBmZWyeImnvF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wIvR3XvT1JXunkHYW84Qw3XE72">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wIz2ksp7iQqBq6z7nSSF9r0y8g">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wPGPilW580QUZ9WgL5z3dwCqD0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xZwrNaNyOMrPqYAT4MAeI2eMAi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xfmAd77Ut8l4B5zla3j3Y41kcS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xlZ13WxayPds0zeqAPIcxRa7PB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="markdown&#10;type hints&#10;type hint&#10;type h&#10;type" />
+    <property name="MarketplacePluginsSearchHistory" value="markdown&#10;discord&#10;rust&#10;bra&#10;rich pr" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="plug&#10;font" />
+    <property name="appcds.runOnSecondStart" value="IC-211.7628.21-710730976f076e109bde83fed10aac996896fb53e1656245c42dc339f6049570" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing sources" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/PROJEKTE/bwinf/Aufgabe1Java&#10;/home/xilo/Documents/PROJEKTE/bwinf/Aufgabe1&#10;/home/xilo/Documents/PROJEKTE/Languages/Rust/rust_test&#10;/home/xilo/Documents/KeePass/Passwords.kdbx&#10;/home/xilo/Documents/PROJEKTE/RAMOTS/rust-communications&#10;/home/xilo/Documents/PROJEKTE/RANDOM/avr-test&#10;/home/xilo/Documents/PROJEKTE/RAMOTS/rust-communications/rust-comm-nano&#10;/home/xilo/Documents/Schule/K1/INF/Files/oop&#10;/home/xilo/Documents/PROJEKTE/RAMOTS/comTemp&#10;/home/xilo/Documents/PROJEKTE/RAMOTS/RAMOTS/rust-test&#10;/home/xilo/Documents/PROJEKTE/Languages/Rust/test&#10;/home/xilo/Documents/PROJEKTE/Languages/Rust&#10;/home/xilo/Documents/Uni/PK1/felix.kunze/PK1Project&#10;/home/xilo/Documents/Uni/PK1/PK1Project&#10;/home/xilo/Documents/Uni/PK1/PK1&#10;/home/xilo/Documents/Uni/PK1/felix.kunze/PK1" />
+    <property name="file.gist.reindex.count" value="156" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.fileTypes.profiler.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IC-211.7628.21" />
+    <property name="ide.updates.whats.new.shown.for" value="211" />
+    <property name="ideavim.statistics.timestamp" value="1630850751303" />
+    <property name="ignore.bundled.jre.version.message" value="true" />
+    <property name="installed.kotlin.plugin.version" value="211-1.5.21-release-317-IJ7442.40" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-16 (2)" />
+    <property name="kotlin.plugin.releaseDate" value="211-1.5.21-release-317-IJ7442.40:2021-07-13" />
+    <property name="last.imported.location" value="$USER_HOME$/Documents/PROJEKTE/RAMOTS/RAMOTS/rust-test" />
+    <property name="lastSeenTip" value="neue-ChangeSignatureAfterMovingParameters.html" />
+    <property name="lastTimeTipsWereShown" value="1626515455692" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/PROJEKTE/bwinf/Aufgabe1Java" />
+    <property name="org.rust.lang.LAST_UPDATE" value="1630849953670" />
+    <property name="org.rust.lang.LAST_VERSION" value="0.4.152.4026-211" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1630421249210" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="seenTips" value="neue-HighlightUsagesInFile.html,neue-ChangeSignatureAfterMovingParameters.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="rust-comm-nano-history" project-path="$USER_HOME$/Documents/PROJEKTE/RAMOTS/rust-communications/rust-comm-nano" last-access-time="1630931448115" />
+      <command-history-file filename="Aufgabe1-history" project-path="$USER_HOME$/Documents/PROJEKTE/bwinf/Aufgabe1" last-access-time="1630577297484" />
+      <command-history-file filename="rust_test-history1" project-path="$USER_HOME$/Documents/PROJEKTE/Languages/Rust/rust_test" last-access-time="1628359080174" />
+      <command-history-file filename="Aufgabe1Java-history" project-path="$USER_HOME$/Documents/PROJEKTE/bwinf/Aufgabe1Java" last-access-time="1630929795580" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

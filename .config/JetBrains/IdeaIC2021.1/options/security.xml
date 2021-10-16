@@ -1,0 +1,6 @@
+<application>
+  <component name="PasswordSafe">
+    <option name="keepassDb" value="$USER_HOME$/Documents/KeePass/Passwords.kdbx" />
+    <option name="PROVIDER" value="KEEPASS" />
+  </component>
+</application>

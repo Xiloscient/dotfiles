@@ -1,0 +1,438 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StartProject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="192" column="29" selection-start-line="192" selection-start-column="29" selection-end-line="192" selection-end-column="29" />
+              <folding>
+                <element signature="class#drawerToggle#0;class#StartProject#0" />
+                <element signature="docComment;method#main#0;class#StartProject#0" />
+                <element signature="docComment;method#start#0;class#StartProject#0" />
+                <element signature="method#start#0;class#StartProject#0" />
+                <element signature="docComment;method#toggleButtons#0;class#StartProject#0" />
+                <element signature="method#toggleButtons#0;class#StartProject#0" />
+                <element signature="docComment;method#createCheckBox#0;class#StartProject#0" />
+                <element signature="method#createCheckBox#0;class#StartProject#0" />
+                <element signature="docComment;method#showIntersection#0;class#StartProject#0" />
+                <element signature="docComment;method#createColorPicker#0;class#StartProject#0" />
+                <element signature="method#createColorPicker#0;class#StartProject#0" />
+                <element signature="docComment;method#loadData#0;class#StartProject#0" />
+                <element signature="method#loadData#0;class#StartProject#0" />
+                <element signature="docComment;method#clearScreen#0;class#StartProject#0" />
+                <element signature="method#clearScreen#0;class#StartProject#0" />
+                <element signature="docComment;method#makePointOnClick#0;class#StartProject#0" />
+                <element signature="method#makePointOnClick#0;class#StartProject#0" />
+                <element signature="docComment;method#pointIsClicked#0;class#StartProject#0" />
+                <element signature="docComment;method#drawPoint#0;class#StartProject#0" />
+                <element signature="docComment;method#drawLine#0;class#StartProject#0" />
+                <element signature="method#drawLine#0;class#StartProject#0" />
+                <element signature="docComment;method#drawCircle#0;class#StartProject#0" />
+                <element signature="method#drawCircle#0;class#StartProject#0" />
+                <element signature="docComment;method#drawRectangle#0;class#StartProject#0" />
+                <element signature="method#drawRectangle#0;class#StartProject#0" />
+                <element signature="docComment;method#shapeConfig#0;class#StartProject#0" />
+                <element signature="method#shapeConfig#0;class#StartProject#0" />
+                <element signature="docComment;method#topBar#0;class#StartProject#0" />
+                <element signature="method#topBar#0;class#StartProject#0" />
+                <element signature="docComment;method#bottomBar#0;class#StartProject#0" />
+                <element signature="method#bottomBar#0;class#StartProject#0" />
+                <element signature="docComment;method#centerScreen#0;class#StartProject#0" />
+                <element signature="method#centerScreen#0;class#StartProject#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Visualizer/style.css" />
+      <option value="$PROJECT_DIR$/src/Visualizer/topBar.java" />
+      <option value="$PROJECT_DIR$/src/Visualizer/Visualize.java" />
+      <option value="$PROJECT_DIR$/src/geoviz/Utilities.java" />
+      <option value="$PROJECT_DIR$/src/geoviz/MyPoint.java" />
+      <option value="$PROJECT_DIR$/src/geoviz/MyLine.java" />
+      <option value="$PROJECT_DIR$/src/geoviz/MyRectangle.java" />
+      <option value="$PROJECT_DIR$/src/geoviz/MyCircle.java" />
+      <option value="$PROJECT_DIR$/src/StartProject.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PK1Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PK1Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PK1Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PK1Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PK1Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PK1Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="geoviz" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="PK1Project-history1" />
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1838118" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.49980032" side_tool="true" weight="0.09553441" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.5001997" weight="0.32057655" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32979503" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.17972182" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32979503" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5001997" visible="true" weight="0.18118595" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18388757" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.49980032" side_tool="true" weight="0.09553441" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.5001997" weight="0.32057655" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" visible="true" weight="0.17972182" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32979503" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5001997" weight="0.18118595" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" order="0" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>TODO</value>
+      <value>Event Log</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="736" y="262" width="433" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1627225590691">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="736" y="262" width="433" height="562" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1627225590691" />
+    <state x="2981" y="496" width="424" height="454" key="FileChooserDialogImpl" timestamp="1627391054669">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2981" y="496" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627391054669" />
+    <state width="1865" height="294" key="GridCell.Tab.0.bottom" timestamp="1627291292259">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.2560.1440@0.0.1920.1080" timestamp="1626617990851" />
+    <state width="2504" height="410" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1626935903767" />
+    <state width="1865" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1627291292259" />
+    <state width="1865" height="294" key="GridCell.Tab.0.center" timestamp="1627291292259">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="303" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.2560.1440@0.0.1920.1080" timestamp="1626617990851" />
+    <state width="2504" height="410" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1626935903767" />
+    <state width="1865" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1627291292259" />
+    <state width="1865" height="294" key="GridCell.Tab.0.left" timestamp="1627291292259">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="303" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.2560.1440@0.0.1920.1080" timestamp="1626617990845" />
+    <state width="2504" height="410" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1626935903766" />
+    <state width="1865" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1627291292258" />
+    <state width="1865" height="294" key="GridCell.Tab.0.right" timestamp="1627291292259">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="303" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.2560.1440@0.0.1920.1080" timestamp="1626617990851" />
+    <state width="2504" height="410" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1626935903767" />
+    <state width="1865" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1627291292259" />
+    <state x="2768" y="489" key="IDE.errors.dialog" timestamp="1626881254055">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2768" y="489" key="IDE.errors.dialog/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1626881254055" />
+    <state x="2893" y="504" width="618" height="467" key="NewModule_or_Project.wizard" timestamp="1627391074763">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2893" y="504" width="618" height="467" key="NewModule_or_Project.wizard/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627391074763" />
+    <state x="2694" y="373" width="934" height="1006" key="SettingsEditor" timestamp="1627060353008">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2694" y="373" key="SettingsEditor/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1627060353008" />
+    <state x="648" y="37" width="934" height="1006" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1627029729449" />
+    <state x="2733" y="421" width="894" height="589" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1626897095433">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2733" y="421" width="894" height="589" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1626897095433" />
+    <state x="706" y="274" width="672" height="515" key="search.everywhere.popup" timestamp="1627219174144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2861" y="365" width="672" height="686" key="search.everywhere.popup/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1626897429279" />
+    <state x="706" y="274" width="672" height="515" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1627219174144" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///opt/jdk1.8.0_241/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="237" column="18" lean-forward="true" selection-start-line="237" selection-start-column="18" selection-end-line="237" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_241/javafx-src.zip!/javafx/scene/layout/Region.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="1294" column="22" selection-start-line="1294" selection-start-column="22" selection-end-line="1294" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visualizer/topBar.java" />
+    <entry file="jar:///opt/jdk1.8.0_241/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_241/javafx-src.zip!/javafx/scene/layout/BorderPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="210" column="11" selection-start-line="210" selection-start-column="11" selection-end-line="210" selection-end-column="11" />
+          <folding>
+            <element signature="e#8014#8015#0" expanded="true" />
+            <element signature="e#8037#8038#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visualizer/Visualize.java" />
+    <entry file="file://$PROJECT_DIR$/src/geoviz/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_241/javafx-src.zip!/javafx/scene/shape/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="224" column="24" selection-start-line="224" selection-start-column="24" selection-end-line="224" selection-end-column="24" />
+          <folding>
+            <element signature="e#5557#5558#0" expanded="true" />
+            <element signature="e#5592#5593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_241/javafx-src.zip!/javafx/scene/shape/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+          <folding>
+            <element signature="e#2868#2869#0" expanded="true" />
+            <element signature="e#2903#2904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_241/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="1249" column="16" selection-start-line="1249" selection-start-column="16" selection-end-line="1249" selection-end-column="16" />
+          <folding>
+            <element signature="e#31007#31008#0" expanded="true" />
+            <element signature="e#31039#31040#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_241/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="897" column="12" selection-start-line="897" selection-start-column="12" selection-end-line="897" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geoviz/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#round2#0;class#Utilities#0" />
+            <element signature="docComment;method#getSlope#0;class#Utilities#0" />
+            <element signature="method#getSlope#0;class#Utilities#0" />
+            <element signature="docComment;method#getIntercept#0;class#Utilities#0" />
+            <element signature="method#getIntercept#0;class#Utilities#0" />
+            <element signature="docComment;method#getDistance#0;class#Utilities#0" />
+            <element signature="method#getDistance#0;class#Utilities#0" />
+            <element signature="docComment;method#isParallel#0;class#Utilities#0" />
+            <element signature="docComment;method#isOrthogonal#0;class#Utilities#0" />
+            <element signature="docComment;method#doubleComparison#0;class#Utilities#0" />
+            <element signature="method#doubleComparison#0;class#Utilities#0" />
+            <element signature="docComment;method#getUpperLeft#0;class#Utilities#0" />
+            <element signature="method#getUpperLeft#0;class#Utilities#0" />
+            <element signature="docComment;method#getPointOfIntersection#0;class#Utilities#0" />
+            <element signature="method#getPointOfIntersection#0;class#Utilities#0" />
+            <element signature="docComment;method#getPointOfIntersection#1;class#Utilities#0" />
+            <element signature="method#getPointOfIntersection#1;class#Utilities#0" />
+            <element signature="docComment;method#getPointOfIntersection#2;class#Utilities#0" />
+            <element signature="method#getPointOfIntersection#2;class#Utilities#0" />
+            <element signature="docComment;method#dataLoader#0;class#Utilities#0" />
+            <element signature="method#dataLoader#0;class#Utilities#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geoviz/MyRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;method#MyRectangle#0;class#MyRectangle#0" />
+            <element signature="method#MyRectangle#0;class#MyRectangle#0" />
+            <element signature="docComment;method#getUpperLeft#0;class#MyRectangle#0" />
+            <element signature="docComment;method#toString#0;class#MyRectangle#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geoviz/MyPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#MyPoint#0" />
+            <element signature="docComment;method#MyPoint#0;class#MyPoint#0" />
+            <element signature="method#MyPoint#0;class#MyPoint#0" />
+            <element signature="docComment;method#getX#0;class#MyPoint#0" />
+            <element signature="docComment;method#getY#0;class#MyPoint#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geoviz/MyCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;method#MyCircle#0;class#MyCircle#0" />
+            <element signature="method#MyCircle#0;class#MyCircle#0" />
+            <element signature="docComment;method#getEdge#0;class#MyCircle#0" />
+            <element signature="docComment;method#getCenter#0;class#MyCircle#0" />
+            <element signature="docComment;method#toString#0;class#MyCircle#0" />
+            <element signature="method#toString#0;class#MyCircle#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geoviz/MyLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#MyLine#0" />
+            <element signature="docComment;method#MyLine#0;class#MyLine#0" />
+            <element signature="method#MyLine#0;class#MyLine#0" />
+            <element signature="docComment;method#getIntercept#0;class#MyLine#0" />
+            <element signature="docComment;method#getSlope#0;class#MyLine#0" />
+            <element signature="docComment;method#getPoint1#0;class#MyLine#0" />
+            <element signature="docComment;method#getPoint2#0;class#MyLine#0" />
+            <element signature="docComment;method#toString#0;class#MyLine#0" />
+            <element signature="method#toString#0;class#MyLine#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StartProject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="192" column="29" selection-start-line="192" selection-start-column="29" selection-end-line="192" selection-end-column="29" />
+          <folding>
+            <element signature="class#drawerToggle#0;class#StartProject#0" />
+            <element signature="docComment;method#main#0;class#StartProject#0" />
+            <element signature="docComment;method#start#0;class#StartProject#0" />
+            <element signature="method#start#0;class#StartProject#0" />
+            <element signature="docComment;method#toggleButtons#0;class#StartProject#0" />
+            <element signature="method#toggleButtons#0;class#StartProject#0" />
+            <element signature="docComment;method#createCheckBox#0;class#StartProject#0" />
+            <element signature="method#createCheckBox#0;class#StartProject#0" />
+            <element signature="docComment;method#showIntersection#0;class#StartProject#0" />
+            <element signature="docComment;method#createColorPicker#0;class#StartProject#0" />
+            <element signature="method#createColorPicker#0;class#StartProject#0" />
+            <element signature="docComment;method#loadData#0;class#StartProject#0" />
+            <element signature="method#loadData#0;class#StartProject#0" />
+            <element signature="docComment;method#clearScreen#0;class#StartProject#0" />
+            <element signature="method#clearScreen#0;class#StartProject#0" />
+            <element signature="docComment;method#makePointOnClick#0;class#StartProject#0" />
+            <element signature="method#makePointOnClick#0;class#StartProject#0" />
+            <element signature="docComment;method#pointIsClicked#0;class#StartProject#0" />
+            <element signature="docComment;method#drawPoint#0;class#StartProject#0" />
+            <element signature="docComment;method#drawLine#0;class#StartProject#0" />
+            <element signature="method#drawLine#0;class#StartProject#0" />
+            <element signature="docComment;method#drawCircle#0;class#StartProject#0" />
+            <element signature="method#drawCircle#0;class#StartProject#0" />
+            <element signature="docComment;method#drawRectangle#0;class#StartProject#0" />
+            <element signature="method#drawRectangle#0;class#StartProject#0" />
+            <element signature="docComment;method#shapeConfig#0;class#StartProject#0" />
+            <element signature="method#shapeConfig#0;class#StartProject#0" />
+            <element signature="docComment;method#topBar#0;class#StartProject#0" />
+            <element signature="method#topBar#0;class#StartProject#0" />
+            <element signature="docComment;method#bottomBar#0;class#StartProject#0" />
+            <element signature="method#bottomBar#0;class#StartProject#0" />
+            <element signature="docComment;method#centerScreen#0;class#StartProject#0" />
+            <element signature="method#centerScreen#0;class#StartProject#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

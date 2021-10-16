@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="8e67ea34-90ec-46e7-9ee5-389ff91cf553" name="Xiloscient">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>

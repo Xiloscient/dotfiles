@@ -1,6 +1,0 @@
-2021/10/14-14:40:01.553 4501 Reusing MANIFEST /home/xilo/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2021/10/14-14:40:01.553 4501 Recovering log #21
-2021/10/14-14:40:01.670 4501 Reusing old log /home/xilo/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000021.log 
-2021/10/14-14:40:02.936 44ff Level-0 table #26: started
-2021/10/14-14:40:02.975 44ff Level-0 table #26: 1026406 bytes OK
-2021/10/14-14:40:02.981 44ff Delete type=0 #21
